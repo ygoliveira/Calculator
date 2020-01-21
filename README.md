@@ -1,2 +1,2 @@
 # Calculator
-Calculator algorithm in Python v3.7
+A simple calculator algorithm made in Python v3.7
